@@ -1,7 +1,7 @@
 import express, { Request, Response } from 'express'
 import { validationResult } from 'express-validator';
 import { param } from 'express-validator';
-import { createWatermark } from 'express-watermark-video'
+import { createWatermark } from 'video-watermark'
 
 const app = express()
 const port: number = 3000
