@@ -39,8 +39,9 @@ async (req: Request, res: Response) => {
 
 ```
 
-or you can check the ./example folder.
+### or you can check the ./example folder.
 
+![](./ss.png)
 
 
 ## Pull request welcome

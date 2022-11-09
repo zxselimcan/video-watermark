@@ -16,5 +16,15 @@
     "@types/node": "^18.11.9",
     "express": "^4.18.2",
     "typescript": "^4.8.4"
-  }
+  },
+  "keywords": [
+    "nodejs",
+    "ffmpeg",
+    "express",
+    "watermark",
+    "ffmpeg watermark",
+    "express watermark",
+    "video",
+    "video watermark"
+  ]
 }
