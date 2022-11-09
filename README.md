@@ -1,4 +1,4 @@
-# Express Watermark Video
+# video-watermark
 
 Add watermarks to videos dynamically with expressJS
 
@@ -6,18 +6,18 @@ Add watermarks to videos dynamically with expressJS
 ## Install
 npm 
 
-`npm i express-watermark-video`
+`npm i video-watermark`
 
 yarn
 
-`yarn add express-watermark-video`
+`yarn add video-watermark`
 
 ## Usage
 
 ```js
 
-import { createWatermark } from "express-watermark-video"
-// const { createWatermark } = require("express-watermark-video")
+import { createWatermark } from "video-watermark"
+// const { createWatermark } = require("video-watermark")
 
 async (req: Request, res: Response) => {
 

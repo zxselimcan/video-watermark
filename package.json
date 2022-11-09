@@ -1,9 +1,9 @@
 {
-  "name": "express-watermark-video",
+  "name": "video-watermark",
   "version": "1.0.0",
   "description": "Watermark your videos in express.js server dynamically",
   "main": "index.js",
-  "repository": "https://github.com/0xselimcan/express-watermark-video",
+  "repository": "https://github.com/0xselimcan/video-watermark",
   "author": "Selim Can Özdemir <0xselimcan@gmail.com>",
   "license": "MIT",
   "private": false,
